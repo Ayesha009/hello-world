@@ -1,0 +1,229 @@
+<resources>
+
+    <string name="action_add">Add</string>
+    <string name="action_search">Search</string>
+    <string name="action_email">Email</string>
+    <string name="activity_a">Add</string>
+    <string name="activity_b">Delete</string>
+    <string name="activity_c">Edit</string>
+
+
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="email">Email </string>
+    <string name="passowrd">Password</string>
+    <string name="login">LOGIN</string>
+    <string name="show_pwd">Show Password</string>
+    <string name="hide_pwd">Hide Password</string>
+    <string name="forgot">Forgot password?</string>
+    <string name="closebutton">Close Button for Activity</string>
+    <string name="newUser">Not a Member yet? Sign Up here.</string>
+    <string name="fullName">Full Name</string>
+    <string name="mobileNumber">Mobile Number</string>
+    <string name="location">Location</string>
+    <string name="confirmPassword">Confirm Password</string>
+    <string name="terms_conditions">By clicking SignUp you agree all the Terms and Conditions.</string>
+    <string name="signUp">SIGN UP</string>
+    <string name="already_user">Already have Account? Login here.</string>
+    <string name="registered_emailid">Please enter your Registered Email Id below:</string>
+    <string name="submit">SUBMIT</string>
+    <string name="back">BACK</string>
+    <string name="staff">Staff</string>
+    <string name="visitor">Visitor</string>
+    <string name="username"> Username</string>
+
+    <string name="title_activity_exhibit1">Exhibit1</string>
+    <string name="large_text"> </string>
+    <string name="app_name">Smart App for a Mauritian Museum</string>
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Password</string>
+    <string name="login_button">LOGIN</string>
+    <string name="sign_up">Sign up</string>
+    <string name="no_text"> </string>
+    <string name="sign_up_button">SIGN UP</string>
+    <string name="log_in">Login</string>
+    <string name="title_activity_profile">ProfileActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+
+    <string name="profile_name">Saadia Roojee</string>
+    <string name="country_location">Mauritian</string>
+
+    <string name="menu_profile">Profile</string>
+    <string name="menu_chat">Chat</string>
+    <string name="menu_contact">Map</string>
+    <string name="menu_online">Language</string>
+    <string name="menu_camera">Camera</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="promotion">Promotions and deals</string>
+    <string name="events">Events</string>
+    <string name="photos">Photos</string>
+    <string name="feedback">Feedback</string>
+
+    <string name="menu_settings">Ratings</string>
+    <string name="menu_logout">Logout</string>
+
+            <!-- TODO: Remove or change this placeholder text -->
+            <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="profile_names">Display name</string>
+    <string name="induce_smile">Saadia Roojee</string>
+
+    <string name="edit_profile_name">Name</string>
+    <string name="edit_profile_country">Country</string>
+    <string name="edit_profile_phone">Phone number</string>
+    <string name="edit_profile_hobby">Hobby</string>
+    <string name="select_date">Date</string>
+    <string name="save_edit">Save edit</string>
+
+
+
+
+
+
+
+
+
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_name">Full Name</string>
+    <string name="btn_login">LOGIN</string>
+    <string name="btn_register">REGISTER</string>
+    <string name="btn_link_to_register">Not a member? Sign up now.</string>
+    <string name="btn_link_to_login">Already registred! Login Me.</string>
+    <string name="welcome">Welcome</string>
+    <string name="btn_logout">LOGOUT</string>
+    <string name="name">Fullname</string>
+
+    <string name="day">DD</string>
+    <string name="month">MM</string>
+    <string name="year">YYYY</string>
+
+    <string-array name="months">
+        <item>MM</item>
+        <item>01</item>
+        <item>02</item>
+        <item>03</item>
+        <item>04</item>
+        <item>05</item>
+        <item>06</item>
+        <item>07</item>
+        <item>08</item>
+        <item>09</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+    </string-array>
+
+
+    <string-array name="day">
+        <item>DD</item>
+        <item>01</item>
+        <item>02</item>
+        <item>03</item>
+        <item>04</item>
+        <item>05</item>
+        <item>06</item>
+        <item>07</item>
+        <item>08</item>
+        <item>09</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+        <item>31</item>
+    </string-array>
+
+
+
+    <style name="settings_item_layout">
+        <item name="android:orientation">vertical</item>
+        <item name="android:textSize">@dimen/small_text</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:paddingLeft">@dimen/activity_horizontal_margin</item>
+        <item name="android:paddingRight">@dimen/activity_horizontal_margin</item>
+        <item name="android:paddingTop">@dimen/activity_vertical_margin</item>
+        <item name="android:paddingBottom">@dimen/items_inbetween_space</item>
+
+    </style>
+
+    <style name="settings_header">
+        <item name="android:textColor">@color/textcolorHeader</item>
+        <item name="android:textSize">@dimen/large_text</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+
+
+
+    <string name="image1"> image 1</string>
+
+
+    <string name="sett_reminder_header">Set Reminder</string>
+    <string name="sett_reminder_label">Remind Me</string>
+    <string name="sett_reminder_desc">We will remind you to make entiries of your expense</string>
+    <string name="sett_reminder_time_label">Set Reminder Time</string>
+    <string name="sett_reminder_time_content">8 : 00 PM</string>
+    <string name="Translate">Translate</string>
+    <string name="show_path">Show path</string>
+    <string name="Share">Share</string>
+    <string name="Text">Text</string>
+    <string name="AudioGuide"> Audio Guide </string>
+    <style name="switch_theme">
+        <item name="thumbTint">@color/switch_color</item>
+        <item name="trackTint">@color/track_color</item>
+    </style>
+
+
+
+
+    <!--     ................................................................    -->
+    <string name="More"> More </string>
+    <string name="Bookmark">Bookmark</string>
+    <string name="title1"> The Paul Et Virginie Statue  </string>
+    <string name="date"> By: Bernardin de Saint-Pierre  </string>
+    <string name="blog_content"> Discover the earliest editions of the novel: ‘Paul et Virginie’ was first published in Volume 4 of Bernardin de Saint-Pierre’s ‘Etudes de la Nature’ <br></br>
+    </string>
+    <string name="paul_details">Explore the marble statue by Prosper d’Epinay and the earliest editions of the novel</string>
+    <string name="gallery"> Gallery</string>
+    <string name="audio"> Audio </string>
+    <string name="audio_details"> Discover all audio multimedia guides</string>
+    <string name="video"> Video </string>
+    <string name="paul_video"> Discover all video multimedia guides of the paul et virginie statue </string>
+    <string name="description_txt1">
+        This famous novel by the French author, Jacques-Henri Bernardin de Saint-Pierre, is forever associated with Mauritius and the mythical story of these two lovers is a masterpiece of world literature. This room exhibits various illustrated editions of the novel and several paintings inspired by the work of Bernardin de Saint-Pierre. Visitors are given the possibility to distinguish between the legend and reality through the recounting of the true story of the shipwreck of the Saint-Géran, which inspired the tragic ending of Bernardin de Saint-Pierre’s novel.
+    </string>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</resources>
